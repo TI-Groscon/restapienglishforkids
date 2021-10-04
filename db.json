@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Caio",
+      "email": "caio@consorciogroscon.com.br",
+      "xp": 0,
+      "highScore": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "http://consorciogroscon.com.br/wp-content/uploads/2016/11/groscon_menu.png"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "http://consorciogroscon.com.br/wp-content/uploads/2016/11/groscon_menu.png"
+    },
+    {
+      "name": "Colors",
+      "image": "http://consorciogroscon.com.br/wp-content/uploads/2016/11/groscon_menu.png",
+      "id": 3
+    }
+  ]
+}
